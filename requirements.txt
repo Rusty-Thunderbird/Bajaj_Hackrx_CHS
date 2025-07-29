@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pdfplumber
+spacy
+pinecone-client
+openai
+requests
